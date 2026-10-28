@@ -1,0 +1,1 @@
+Vendored from https://github.com/remotion-dev/skills at commit 30d4553. No LICENSE file in that repo; Remotion itself has its own license terms (https://www.remotion.dev/docs/license).
