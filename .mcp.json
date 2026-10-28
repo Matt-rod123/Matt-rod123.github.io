@@ -2,7 +2,19 @@
   "mcpServers": {
     "rea": {
       "command": "npx",
-      "args": ["-y", "rea-agents@6.8.0", "mcp"]
+      "args": [
+        "-y",
+        "rea-agents@6.8.0",
+        "mcp"
+      ]
+    },
+    "ootto": {
+      "type": "http",
+      "url": "https://mcp.ootto.ai/mcp"
+    },
+    "apify": {
+      "type": "http",
+      "url": "https://mcp.apify.com"
     }
   }
 }
