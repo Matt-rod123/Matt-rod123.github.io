@@ -1,1 +1,0 @@
-Vendored from https://github.com/Ootto-AI/claude-content-skills at commit c79c330 (MIT).
